@@ -1,2 +1,0 @@
-# PeachStore
-Pagina web peachstore
